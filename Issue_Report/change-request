@@ -1,0 +1,19 @@
+---
+name: Zgłoszenie zmiany
+about: Zgłoś sugerowaną zmiane
+title: "[change-request] krótki opis"
+labels: change-request
+assignees: --
+---
+
+## Opis błędu
+Krótki i jasny opis zmiany
+
+## Uzasadnienie
+Opisz w szczególe uzasadnienie wprowadzenia zmiany
+
+## Załączniki
+Dodaj zrzuty, logi lub inne materiały pomocnicze
+ 
+## Dodatkowe informacje
+Wszystkie dodatkowe uwagi
