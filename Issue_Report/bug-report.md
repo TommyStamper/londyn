@@ -1,7 +1,7 @@
 ---
 name: Zgłoszenie błędu
 about: Zgłoś błąd na stronie
-tilte "[BUG] krótki opis"
+title: "[BUG] krótki opis"
 labels: bug
 assignees: --
 ---
